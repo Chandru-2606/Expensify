@@ -1,0 +1,34 @@
+.container{
+    background-image: url("./Images/bg.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 98vh;
+    width: 100vw;
+    
+}
+
+.login{
+    width: 300px;
+    height: 216px;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    float: right;
+    margin-top: 238px;
+     margin-right: 570px;
+     display: block;
+}
+
+p{
+    margin-top: 15px;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.login_btn1{
+    width: 90px;
+    height: 35px;
+    background: #498ef5;
+    color: #fff;
+    border: none;
+}

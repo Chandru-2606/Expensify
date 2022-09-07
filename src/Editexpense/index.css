@@ -1,0 +1,24 @@
+.edit_calender{
+    width: 70%;
+    height: 50px;
+    justify-content: center;
+    border: 1px solid #cacccd;
+    font-size: 20px;
+     font-family: sans-serif;
+    margin-left: 200px;
+    margin-top: -12px;
+}
+
+.edit_butn{
+    margin-left: 200px;
+    background-color: #498ef5;
+    border: none;
+    height: 37px;
+    margin-top: 10px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 21px;
+    
+    
+}
+

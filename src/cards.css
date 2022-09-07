@@ -1,0 +1,35 @@
+.input_container{
+    display: flex;
+    flex-direction: column;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    line-height: 0.15;
+}
+.data, .description, .textarea{
+    height: 50px;
+    padding: 1px 10px;
+    border: 1px solid #cacccd;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+
+}
+
+.input_container input{
+    line-height: 50%;
+}
+
+.input_container textarea{
+      height: 110px;
+      padding-top: 10px;
+      font-size: 20px;
+      font-family: sans-serif;
+}
+
+
+
+
+
+

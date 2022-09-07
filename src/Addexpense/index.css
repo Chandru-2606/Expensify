@@ -1,0 +1,63 @@
+.expensecontainer {
+    text-align: center;
+}
+
+
+
+
+
+.expensecontainer p{
+    text-align: center;
+}
+
+.expensecontainer .expense{
+    width: 60%;
+    height: 50px;
+    border: 1px solid grey;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
+
+.expensecontainer .amount{
+    width: 60%;
+    height: 50px;
+    border: 1px solid grey;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.expensecontainer .notes{
+    width: 60%;
+    height: 160px;
+    border: 1px solid grey;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+
+}
+.calender{
+    width: 70%;
+    height: 50px;
+    justify-content: center;
+    border: 1px solid #cacccd;
+    font-size: 20px;
+
+    font-family: sans-serif;
+}
+
+
+
+
+.expensecontainer button{
+    margin-right: 838px;
+    height: 38px;
+    margin-top: 20px;
+    background-color: #498ef5;
+    border: none;
+    width: 127px;
+}
+

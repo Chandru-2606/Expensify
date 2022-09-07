@@ -1,0 +1,131 @@
+.header{
+    background-color: rgb(27,74,134);
+    justify-content: space-between;
+    display: flex;
+    height: 120px;
+    padding-left: 25px 0px;
+    padding-right: 7%;
+}
+
+.header a{
+    color: white;
+    font-size: 35px;
+    padding-top: 20px;
+    padding-left: 150px;
+    text-decoration: none;
+}
+
+.header .logout{
+    color: white;
+    background-color: rgb(27,74,134);
+    height: 50px;
+    border: none;
+    margin-left: 600px;
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+
+.sub-header{
+    background-color: rgb(242,242,242);
+    height: 115px;
+    margin-top: -25px;
+}
+
+/* .sub-header p{
+
+    padding-top: 30px;
+    margin-left: 212px;
+} */
+
+.sub-header .btn{
+    border: none;
+    background-color: rgb(73,142,245);
+    color: white;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 218px;
+    margin-top: 63px;
+}
+
+.expensefilter{
+    margin-top: 50px;
+    display: flex;
+    
+}
+
+.expensefilter input{
+    height: 40px;
+    font-size: 20px;
+    width: 150px;
+    margin-left: 213px;
+}
+
+.box{
+    margin-left: 15%;
+    width: 70%;
+    margin-right: 15%;
+    margin-top: 20px;
+
+}
+
+.listheading{
+          display: flex;
+          border: 2px solid #cacccd;
+          background-color: hsla(0,0%,50%,.1);
+          width: 100%;
+}
+
+
+.listheading1, .listheading2 , .listheading3{
+         width: 33%;
+         text-align: center;
+}
+
+.result{
+     margin-left: 15%;
+    width: 70%;
+    margin-right: 15%;
+    display: flex;
+    border: 1px solid #cacccd;
+     
+}
+
+.result1{
+    width: 100%;
+    display: flex;
+    
+}
+
+.result1 .item1, .item2, .item3{
+    width: 33%;
+    text-align: center;
+    /* border: 1px solid grey; */
+    height: 50px;
+    padding-top: 28px;
+    list-style-type:none;
+}
+
+
+.result1 button{
+    border: none;
+    background-color: white;
+    
+}
+
+select{
+    height: 44px;
+    background-color: #fff;
+    border: 1px solid #cacccd;
+    display: inline-block;
+    padding-left: 10px;
+    font-size: 20px;
+      margin-left: 690px;
+    
+}
+
+
+
+
+
+
