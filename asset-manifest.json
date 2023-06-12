@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Expensify/static/css/main.f0556d81.css",
+    "main.js": "/Expensify/static/js/main.3a5e17be.js",
+    "static/js/787.da835c94.chunk.js": "/Expensify/static/js/787.da835c94.chunk.js",
+    "static/media/bg.jpg": "/Expensify/static/media/bg.b9f65c5d38a200d812df.jpg",
+    "index.html": "/Expensify/index.html",
+    "main.f0556d81.css.map": "/Expensify/static/css/main.f0556d81.css.map",
+    "main.3a5e17be.js.map": "/Expensify/static/js/main.3a5e17be.js.map",
+    "787.da835c94.chunk.js.map": "/Expensify/static/js/787.da835c94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0556d81.css",
+    "static/js/main.3a5e17be.js"
+  ]
+}
